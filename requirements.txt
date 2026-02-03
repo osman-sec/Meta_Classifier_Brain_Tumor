@@ -2,5 +2,9 @@ torch
 torchvision
 scikit-learn
 numpy
+resnet50
+vit_b_16
+efficientnet_b0
+mobilenet_v2
 pillow
 gradio
