@@ -1,2 +1,2 @@
 # Meta_Classifier_Brain_Tumor
-This project is a deep learning–based brain tumor classification system that combines multiple pretrained models using a meta-classifier. The application is deployed with Streamlit on Hugging Face Spaces for real-time MRI image analysis.
+This project is a deep learning–based brain tumor classification system that leverages a hybrid stacking ensemble of multiple pretrained models for accurate diagnosis. The system integrates ResNet50, ViT-B/16, EfficientNet-B0, and MobileNetV2, feeding their outputs into a machine learning meta-classifier to produce precise final predictions. The application is deployed using Streamlit on Hugging Face Spaces for real-time MRI image analysis.
